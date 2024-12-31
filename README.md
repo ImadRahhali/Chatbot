@@ -119,8 +119,8 @@ Try these questions to test the chatbot:
 - "Which hospitals are in the hospital system?"
 - "How much was billed for patient 789's stay?"
 
-![Chatbot Question](readme_screens\searching_question.png)
-![Chatbot Question](readme_screens\results.png)
+![Chatbot Question](readme_screens/searching_question.png)
+![Chatbot Question](readme_screens/results.png)
 
 
 ## Project Structure
