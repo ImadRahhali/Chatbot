@@ -7,3 +7,4 @@ chatbot_api/src/tools/__pycache__
 venv/
 *.env
 bfg-1.14.0.jar
+.gitattributes
