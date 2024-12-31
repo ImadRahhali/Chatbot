@@ -2,7 +2,7 @@
 
 A chatbot system built with Neo4j, FastAPI, and Streamlit for querying hospital data using natural language processing.
 
-![Chatbot Interface](readme_screens\chatbot_interface.png)
+![Chatbot Interface](readme_screens/chatbot_interface.png)
 
 ## Prerequisites
 
